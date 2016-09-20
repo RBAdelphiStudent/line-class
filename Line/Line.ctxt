@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=slope\ yIntercept
+comment0.target=Line(double,\ double)
+comment0.text=\r\n\ Initializes\ a\ line's\ equation\ based\ on\ an\ inputted\ slope\ and\ y-intercept.\r\n\ Two\ doubles,\ named\ slope\ and\ yIntercept,\ are\ input\ by\ the\ user.\r\n\ The\ constructor\ initializes\ a\ String\ value\ for\ lineEquation\ in\ a\ y\=mx+b\ format.\r\n\ m\=slope\r\n\ b\=yIntercept\r\n\ Example\:\ The\ user\ inputs\ 3.5\ for\ slope\ and\ 2\ for\ yIntercept.\r\n\ String\ lineEquation\ will\ be\ y\=3.5x+2\r\n
+comment1.params=
+comment1.target=void\ getLineEquation()
+comment1.text=\r\n\ Prints\ the\ line's\ equation\ (String\ lineEquation)\r\n\ This\ method\ has\ no\ inputs\ and\ prints\ lineEquation\ when\ initialized.\r\n\ Example\:\ lineEquation\=\ y\=3.5x+2\r\n\ The\ system\ outputs\ and\ prints\:\r\n\ y\=3.5x+2\r\n
+numComments=2
